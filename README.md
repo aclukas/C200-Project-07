@@ -15,7 +15,7 @@ The art assets I tried to keep simple so I just did them myself. The sound effec
 
 
 ## Special Focus
-I guess I focused on art since I made the assets myself and did a little animation for the sheep. Honestly, I'd rate it a 2-3 because it was so simple.
+I guess I focused on art since I made the assets myself and did a little animation for the sheep. I also made the background looping so it looks more like you're moving. Honestly, I'd rate it a 2-3 because it was a bit simple.
 
 ## References
 
